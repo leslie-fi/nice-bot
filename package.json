@@ -1,0 +1,19 @@
+{
+  "name": "nice-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leslie-fi/nice-bot.git"
+  },
+  "author": "leslie-fi",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/leslie-fi/nice-bot/issues"
+  },
+  "homepage": "https://github.com/leslie-fi/nice-bot#readme"
+}
