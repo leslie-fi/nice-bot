@@ -1,0 +1,2 @@
+# nice-bot
+discord-bot
